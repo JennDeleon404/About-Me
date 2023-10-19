@@ -3,11 +3,14 @@
 # Hey there! 👋
 
 I'm Jennifer Deleon, and I'm a Software Developer located in San Antonio. 
-Feel free to drop me a line anytime at 📧 jennifer.deleon404@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/JenniferDeleon)
+Feel free to drop me a line anytime at 
+📧 jennifer.deleon404@gmail.com 
+or connect with me on 
+[LinkedIn](https://www.linkedin.com/in/JenniferDeleon)
 
 ---
 
-🚀 I'm a developer who loves learning new things and has a knack for picking up new things pretty quick. I thrive in both solo missions and team adventures, and I really enjoy building software that not only meets the customer's wishes but also looks and functions great. I beleive that UI is just as imporatnant as the functionality of the software. 
+🚀 I'm a developer who loves learning new things and has a knack for picking up new things pretty quick. I thrive in both solo missions and team projects, and I really enjoy building software that not only meets the customer's wishes but also looks and functions great. I beleive that UI is just as imporatnant as the functionality of the software. 
 
 **Tech Toolbox:** 💻 🛠️  
 - HTML
@@ -32,9 +35,9 @@ Feel free to drop me a line anytime at 📧 jennifer.deleon404@gmail.com or conn
 
 ---
 
-🦷 I worked in the dental field, Orthodontics to be specific, for 11 years, until COVID hit. I used my time to look into other career paths that peaked my interests and landed on software developement!
+🦷 I worked in the dental field, Orthodontics to be specific, for 11 years, until COVID hit. I used my time off to look into other career paths that peaked my interests and landed on software developement!
 
-  **I then found Code up, which is the very first and only accredited coding bootcamp in Texas.**
+  **I then found Code up, which is the very first and ONLY accredited coding bootcamp in Texas.**
 
   - There, I studied Full-Stack Development with 670 hours of expert instruction and hands on development. 
 
