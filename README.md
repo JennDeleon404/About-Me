@@ -1,11 +1,11 @@
 # About-Me
 
 # Hey there! 👋
-
-I'm Jennifer Deleon, and I'm a Software Developer located in San Antonio. 
-Feel free to drop me a line anytime at 
-📧 jennifer.deleon404@gmail.com 
-or connect with me on 
+<br>
+I'm Jennifer Deleon, and I'm a Software Developer located in San Antonio. <br>
+Feel free to drop me a line anytime at <br>
+📧 jennifer.deleon404@gmail.com <br>
+or connect with me on <br>
 [LinkedIn](https://www.linkedin.com/in/JenniferDeleon)
 
 ---
